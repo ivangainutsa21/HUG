@@ -1,0 +1,7 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+Pods/
+ValentineHug.xcodeproj/xcuserdata
+ValentineHug.xcworkspace/xcuserdata
+ValentineHug.xcodeproj/project.xcworkspace/xcuserdata
+facebook.backup
+.DS_Store
